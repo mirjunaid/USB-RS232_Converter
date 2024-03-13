@@ -1,0 +1,60 @@
+Info: Processing symbol 'C2:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'FB1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'H1:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'H2:MountingHole:MountingHole_2.5mm_Pad'.
+Info: Processing symbol 'D6:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'J1:Connector_Dsub:DSUB-9_Male_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset7.48mm'.
+Info: Processing symbol 'P1:Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'D5:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R6:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R7:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'R8:Resistor_SMD:R_1206_3216Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'U1:Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_1812_4532Metric'.
+Info: Processing symbol 'D2:LED_SMD:LED_1812_4532Metric'.
+Info: Processing symbol 'D4:Capacitor_SMD:C_0201_0603Metric'.
+Info: Processing symbol 'U2:Package_SO:SOIC-16W_7.5x10.3mm_P1.27mm'.
+Connected D6 pin 1 to /D+.
+Connected D6 pin 2 to GND.
+Removed unused net unconnected-(P1-D--PadB7).
+Removed unused net unconnected-(P1-D+-PadB6).
+Reconnected P1 pin B6 from unconnected-(P1-D+-PadB6) to /D+.
+Reconnected P1 pin B7 from unconnected-(P1-D--PadB7) to /D-.
+Changed REF** reference designator to D5.
+Add net unconnected-(C4-Pad1).
+Reconnected C4 pin 1 from /D+ to unconnected-(C4-Pad1).
+Added D4 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to D4.
+Changed D4 value from C_0201_0603Metric to TPD1E10B06DPYR.
+Updated D4 symbol association from  to /fd5f1b1f-0e12-4133-8dd5-3e54d7e3f2a9.
+Updated D4 properties.
+Connected D4 pin 1 to /VCC_USB.
+Connected D4 pin 2 to GND.
+Added D5 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Updated D6 properties.
+Changed D5 value from C_0201_0603Metric to TPD1E05U06DPYR.
+Updated D5 symbol association from  to /952923a0-0c90-4c4d-90f6-84e764d55846.
+Updated D5 properties.
+Connected D5 pin 1 to /D-.
+Connected D5 pin 2 to GND.
+Added D6 (footprint 'Capacitor_SMD:C_0201_0603Metric').
+Changed REF** reference designator to D6.
+Changed D6 value from C_0201_0603Metric to TPD1E05U06DPYR.
+Updated D6 symbol association from  to /42eb9689-1ba4-4cbd-9755-b28c80a2df8c.
+
+
+Info: Total warnings: 0, errors: 0.
